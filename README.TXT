@@ -18,3 +18,4 @@ adds a class to those ones in "shapes". That class (named "Picture")
 uses the shapes to draw a picture. It can be used to experiment with 
 modifying source code.
 hello
+I want food
