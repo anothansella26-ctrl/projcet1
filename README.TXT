@@ -19,4 +19,4 @@ uses the shapes to draw a picture. It can be used to experiment with
 modifying source code.
 hello
 hi
-virus
+foot
